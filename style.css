@@ -1,0 +1,10 @@
+.completed{
+    text-decoration: line-through;
+    opacity: 0.5;
+    transition: all 0.5s ease;
+}
+
+.anim{
+    transform: translateY(8rem) rotateZ(20deg);
+    opacity: 0;
+}
